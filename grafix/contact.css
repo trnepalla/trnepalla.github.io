@@ -1,0 +1,34 @@
+TD {
+	 PADDING-LEFT: 4px; FONT: 11px Helvetica, Monaco, Geneva;  PADDING-TOP: 2px; 
+}
+.bodytext {
+	BORDER-RIGHT: pink 1px solid; BORDER-TOP: pink 1px solid; PADDING-LEFT: 4px; FONT: 10px/14px "Andale Mono", Helvetica, Monaco, Geneva; BORDER-LEFT: pink 1px solid; COLOR: #ffffff; PADDING-TOP: 2px; BORDER-BOTTOM: pink 1px solid; BACKGROUND-COLOR: #333333
+}
+.bildunterschrift {
+	BORDER-RIGHT: red 0px solid; BORDER-TOP: red 0px solid; PADDING-LEFT: 4px; FONT: 10px "Andale Mono", Helvetica, Monaco, Geneva; BORDER-LEFT: red 5px solid; COLOR: #ff0000; PADDING-TOP: 2px; BORDER-BOTTOM: red 1px solid; BACKGROUND-COLOR: white
+}
+
+.footer {
+	MARGIN-TOP: 20px; PADDING-LEFT: 9px; FONT: 9px Geneva, Helvetica, Courier, "Courier New"; WIDTH: 250px; COLOR: #333333; PADDING-TOP: 5px; BACKGROUND-COLOR: #817c72
+}
+A:active {
+	TEXT-DECORATION: none
+}
+A:hover {
+	FONT-WEIGHT: normal; COLOR: #ffffff; BACKGROUND-COLOR: white; TEXT-DECORATION: none
+}
+A:link {
+	WORD-SPACING: 5em; COLOR: #ffffff; BACKGROUND-COLOR: #ff0000
+}
+A:visited {
+	WORD-SPACING: 5em; COLOR: #ffffff; BACKGROUND-COLOR: #ff0000
+}
+BODY {
+	LEFT: 0px; FONT: 11px Helvetica, Monaco, Geneva; TOP: 0px
+}
+.form {
+	BORDER-RIGHT: #ff0000 1px dotted; BORDER-TOP: #ff0000 1px dotted; FONT-SIZE: 10px; BORDER-LEFT: #ff0000 1px dotted; COLOR: #333333; BORDER-BOTTOM: #ff0000 1px dotted; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #cccccc; TEXT-DECORATION: line-through
+}
+.news {
+	BORDER-RIGHT: #ff0000 1px dotted; BORDER-TOP: #ff0000 1px dotted; PADDING-LEFT: 4px; FONT: 10px/14px "Andale Mono", Helvetica, Monaco, Geneva; BORDER-LEFT: #ff0000 1px dotted; COLOR: #ffffff; PADDING-TOP: 2px; BORDER-BOTTOM: #ff0000 1px dotted; BACKGROUND-COLOR: #333333
+}
