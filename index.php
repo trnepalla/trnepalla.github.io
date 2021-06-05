@@ -28,20 +28,6 @@
 <meta name="revisit-after" content="30 Days">
 
 
-<?
-
-    
-
-$pix[0] = "grafix/1_1.gif";
-$pix[1] = "grafix/2_2.gif";
-$pix[2] = "grafix/3_3.gif";
-$pix[3] = "grafix/4_4.gif";
-$pix[4] = "grafix/5_5.gif";
-
-$merda = rand(0, 4);
-
-?>
-
 
 <script type="text/javascript">
 
@@ -69,13 +55,7 @@ $merda = rand(0, 4);
         <br>
       </p>
 
-<? 
 
-print "<a href='images/paporg.jpg' rel='lightbox' title='circa 2002'><img src='$pix[$merda]' 
-border='0'></a>";
-
-
-?>
  
      
     <p> ||| <a href="https://papuasia.org/mail">webmail</a> ||| <a href="http://www.papuasia.org/radiocybernet">radiocybernet</a> 
